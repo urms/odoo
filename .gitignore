@@ -50,3 +50,9 @@ package.json
 /man/
 /share/
 /src/
+.gitignore
+pyproject.toml
+uv.lock
+uv.lock
+pyproject.toml
+.gitignore
